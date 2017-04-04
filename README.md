@@ -1,1 +1,1 @@
-# sequelBurger-app
+# burger-app

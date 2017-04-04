@@ -1,0 +1,24 @@
+{
+  "development": {
+    "port": "3306",
+    "dialect": "mysql",
+    "host": "localhost",
+    "username": "root",
+    "password": "coolidge2",
+    "database": "burgers_db"
+  },
+  "test": {
+    "username": "root",
+    "password": "coolidge2",
+    "database": "burgers_db_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "coolidge2",
+    "database": "burgers_db_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
